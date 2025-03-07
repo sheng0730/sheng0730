@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">大家好我是Sheng</h1>
 
-<!--
-**sheng0730/sheng0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 關於我
+目前正在學習遊戲開發以及設計，努力提升作品品質💪
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheng0730&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 主要語言
+C# Unity
+![]([http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng0730&theme=radical&exclude={exclude}](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng0730&theme=radical&exclude=Cython,HTML))
+## 參加競賽
+電資創意競賽雲端雲端資訊應用組 季軍
+  
